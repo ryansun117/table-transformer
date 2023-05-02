@@ -11,7 +11,7 @@ Reference: https://github.com/NielsRogge/Transformers-Tutorials/blob/master/Tabl
 
 ## Table Transformer (DETR model) table detection visualization
 
-Link: 
+Link: https://github.com/ryansun117/table-transformer/blob/main/example/Using_Table_Transformer_for_table_detection_and_table_structure_recognition.ipynb
 
 ## How can we use it? 
 
